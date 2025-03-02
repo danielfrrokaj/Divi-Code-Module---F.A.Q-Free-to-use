@@ -1,6 +1,6 @@
 
 
-# Divi-Code-Module---F.A.Q-Free-to-use
+# Divi Accordion Component
 Divi Code module for purposes such F.A.Q or any clickable content you need to add for revieling information in a nice way.
 
 ![GIF Preview](https://github.com/danielfrrokaj/Divi-Code-Module---F.A.Q-Free-to-use/blob/main/assets/demo.gif?raw=true)
