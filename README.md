@@ -1,4 +1,4 @@
-![GIF Preview]([https://your-gif-url.gif](https://github.com/danielfrrokaj/Divi-Code-Module---F.A.Q-Free-to-use/blob/main/assets/demo.gif?raw=true))
+![GIF Preview](https://github.com/danielfrrokaj/Divi-Code-Module---F.A.Q-Free-to-use/blob/main/assets/demo.gif?raw=true)
 
 
 # Divi-Code-Module---F.A.Q-Free-to-use
